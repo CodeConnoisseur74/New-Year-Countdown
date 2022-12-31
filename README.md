@@ -1,8 +1,8 @@
 # New-Year-Countdown
 
-![Live Project Mockup](https://ui.dev/amiresponsive?)
+![Live Project Mockup](https://ui.dev/amiresponsive?url=https://codeconnoisseur74.github.io/New-Year-Countdown/)
 
-[Link to Live Project]()
+[Link to Live Project](https://codeconnoisseur74.github.io/New-Year-Countdown/)
 
 ## Introduction
 
