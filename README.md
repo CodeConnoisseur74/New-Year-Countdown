@@ -1,12 +1,12 @@
 # New-Year-Countdown
 
-![Live Project Mockup](https://ui.dev/amiresponsive?url=https://codeconnoisseur74.github.io/New-Year-Countdown/)
+![Live Project Mockup](img/new-year-countdown-responsive.png)
 
 [Link to Live Project](https://codeconnoisseur74.github.io/New-Year-Countdown/)
 
 ## Introduction
 
-A Countdown Timer to the New Year that continouosly updates. This project was written in HTML5, CSS3, JavaScript. A Full Readme and tsting will commence in the New Year. The purpose of this project is strictly personal as it is for my newphews. Since it's New Year's Eve, I have to publish this project ASAP. 
+A Countdown Timer to the New Year that continouosly updates. This project was written in HTML5, CSS3, JavaScript. A Full Readme and tsting will commence in the New Year. The purpose of this project is strictly personal as it is for my newphews. Since it's New Year's Eve, I have to publish this project ASAP.
 
 ## GitHub Pages
 The project was deployed to GitHub Pages. The following steps are used to deploy the site:
@@ -42,7 +42,7 @@ http://www.schillmania.com/projects/snowstorm/
 ## Content
 Google Fonts: Lato
 ## Media
-Shutterstiock 
+Shutterstiock
 New Years. eve fireworks. over the city of St. John's, Newfoundland
 Introspective Design
 
